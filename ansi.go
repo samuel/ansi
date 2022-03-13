@@ -395,7 +395,7 @@ var sgrDesc = [...]string{
 	107: `Set background color, high intensity 7`,
 }
 
-var PCAsciiToUnicode = [256]rune{
+var PCASCIIToUnicode = [256]rune{
 	0:   0,
 	1:   1,
 	2:   2,
